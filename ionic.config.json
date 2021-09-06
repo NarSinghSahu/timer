@@ -1,0 +1,8 @@
+{
+  "name": "Timer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "66648eb6"
+}
